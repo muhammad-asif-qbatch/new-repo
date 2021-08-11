@@ -1,1 +1,3 @@
 Hello I am ok to be commit.
+
+Hi, I am Muhammad Asif. I am a Software Engineer at Qbatch. I joined to become a MERN Stack developer. I am pretty new to this field and wants to learn something each day. It is a journey of uneasiness and persistent work. Follow the timetable and do your chores and other stuff to be on track. 
